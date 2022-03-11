@@ -1,6 +1,22 @@
-# Change Log
+# Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [2.2.2](https://github.com/zkat/my-precious/compare/cli-v2.2.1...2.2.2) (2022-03-02)
+
+
+
+### [2.2.1](https://github.com/zkat/my-precious/compare/cli-v2.2.0...2.2.1) (2022-03-02)
+
+
+
+## [2.2.0](https://github.com/zkat/my-precious/compare/cli-v2.1.0...2.2.0) (2022-03-02)
+
+
+
+## [2.1.0](https://github.com/zkat/my-precious/compare/cli-v2.0.0...2.1.0) (2022-03-02)
+
+
 
 <a name="2.0.0"></a>
 # 2.0.0 (2018-07-05)
